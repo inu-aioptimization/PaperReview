@@ -1,6 +1,6 @@
 # AI Operations Optimization Lab - Paper Review Repository  
 
-Welcome to the **AI Operations Optimization Lab** at Incheon University!  
+Welcome to the **AI&Optimization Lab** at Incheon National University!  
 
 This repository serves as a comprehensive archive of paper reviews conducted by our lab members. Our primary focus is on advancing research in artificial intelligence and its applications to operations optimization.  
 
